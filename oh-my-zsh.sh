@@ -5,7 +5,7 @@ fi
 
 # Initializes Oh My Zsh
 
-# add a function path
+# add a function paths
 fpath=($ZSH/functions $ZSH/completions $fpath)
 
 # Load all stock functions (from $fpath files) called below.
